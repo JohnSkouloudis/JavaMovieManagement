@@ -6,8 +6,9 @@
 # Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml
-out/
 
+out/
+target/
 /nbproject/private/
 /nbbuild/
 /dist/
@@ -16,4 +17,4 @@ out/
 build/
 !**/src/main/**/build/
 !**/src/test/**/build/
-*.class
+
