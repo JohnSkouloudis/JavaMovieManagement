@@ -1,1 +1,1 @@
-# JavaTheaterProject
+# JavaMovieManagement
