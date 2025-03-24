@@ -1,4 +1,4 @@
-# JavaMovieManagement
+# 🎬 JavaMovieManagement
 
 Java Movie Management is a Java-based application designed to facilitate the management of movie information and scheduling. It allows users to register new movies, schedule movie sessions, display movie listings, and view session times for selected days.
 
